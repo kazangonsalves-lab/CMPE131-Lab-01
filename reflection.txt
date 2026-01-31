@@ -1,0 +1,6 @@
+Through branching, multiple developers can develop different programs of one project without affecting others.
+The added flexibility to add different features separately allows different developers to each develop
+different programs without the need to be involved with the development of others. In addition, merging from local to 
+a project holder such as github removes dependence on the server and the internet to access and work on programs.
+When an internet outage happens, the code will not be inaccessible since the computer still locally has the program.
+The result in the end allows large systems to add features separately when they are ready to be tested and released
